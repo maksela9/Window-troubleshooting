@@ -1,4 +1,4 @@
-# Window-troubleshooting notes in 5 Months of some Experience 
+# Window-troubleshooting notes in 3 Months of some Experience 
  A collection of troubleshooting step, command ,fixed and practice help desk ticket system great for Tier 1 Support ,Comptia A+ and real job experiences .
 --
 # 1/ fix Essential WIndow commands
